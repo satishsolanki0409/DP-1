@@ -1,6 +1,13 @@
 # DP-1
 
-## Problem1 (https://leetcode.com/problems/coin-change/)
+# All DP problems are here : 
+https://leetcode.com/tag/dynamic-programming/
 
-## Problem2 (https://leetcode.com/problems/house-robber/)
+# 1: 
+https://leetcode.com/problems/counting-bits/
 
+# 2: 
+https://leetcode.com/problems/pascals-triangle/
+
+# 3:
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
